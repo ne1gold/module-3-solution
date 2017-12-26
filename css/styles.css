@@ -1,0 +1,73 @@
+
+/*Header*/
+
+
+#myNavbar {
+margin-left: 0;
+margin-right: 0;
+
+}
+
+.navbar {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+
+	.navbar-brand {
+	
+		
+
+	}
+
+	.nabvar-default {
+		background-color: grey;
+		border-bottom: 10px;
+	}
+
+.navbar-default .navbar-brand {
+    color: black;
+    font-weight: bold;
+
+	}
+
+
+	.page-header h2 {
+		text-align: center;
+		font-weight: bold;
+		font-size: 1.5em;
+		font-color: black;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+    color: black;
+    text-align: center;
+    background-color: #d3d3d3;
+
+
+    }
+
+    .row {
+    	margin-left: 1.5em;
+    	margin-right: 1.5em;
+    	padding-left: 1.0em;
+    	padding-right: 1.0em;
+    }
+
+    .container {
+   
+    background-color: grey;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-left: 5%;
+    }
+
+    .h3, h3 {
+    font-size: 1.5em;
+    text-align: center;
+    color: black;
+}
+
+.col-12 {
+background-color: grey
+}
